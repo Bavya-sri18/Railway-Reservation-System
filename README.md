@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224230034
+# Name: Bavya Sri B
+# Date: 08-10-25
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="893" height="1041" alt="image" src="https://github.com/user-attachments/assets/8f78e30b-9562-4530-b216-c747de385cf4" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![WhatsApp Image 2025-10-02 at 15 06 23_e5d33a76](https://github.com/user-attachments/assets/98c7fe2c-fc3f-4ede-8472-e837863d2078)
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+![WhatsApp Image 2025-10-07 at 23 25 22_e69f4e6e](https://github.com/user-attachments/assets/1facdde8-5a7e-4155-811e-027978678934)
 
 
 
@@ -81,7 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
+![WhatsApp Image 2025-10-07 at 23 58 00_6f6cda8d](https://github.com/user-attachments/assets/ed72e2ef-fe65-484e-8c36-55635d514f1e)
 
 
 
@@ -97,6 +100,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+![WhatsApp Image 2025-10-08 at 00 10 58_0f5c548a](https://github.com/user-attachments/assets/59ef7168-7eed-4957-9839-9d71be0195d6)
 
 
 
@@ -118,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+![WhatsApp Image 2025-10-08 at 14 29 23_edfc2a72](https://github.com/user-attachments/assets/c5fb19f9-9178-49eb-ad93-90efd7f9cfdb)
 
 
 
